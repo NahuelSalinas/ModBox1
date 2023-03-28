@@ -1,0 +1,18 @@
+.texto{
+    width: 70%;
+    padding: 4.5vh;
+}
+
+.texto h1{
+    padding-top: 1vh;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 5vh;
+}
+
+.texto h2{
+    width: 60%;
+    opacity: 0.9;
+    text-align: justify;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 3vh;
+}
