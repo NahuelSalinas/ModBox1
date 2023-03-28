@@ -1,0 +1,9 @@
+.texto{
+    width: 90%;
+    padding: 4.5vh;
+}
+
+.texto h1{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 5vh;
+}
